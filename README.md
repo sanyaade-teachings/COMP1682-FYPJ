@@ -12,13 +12,13 @@
 
 
 ## Research Portals
-# eric.ed.gov 
-# https://www.researchgate.net/
-# https://www.academia.edu/
-# https://www.athenarc.gr/en/home
-# https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/ieee-publishing-portal/
-# https://konfer.online/
-# https://research.uci.edu/
+## eric.ed.gov 
+## https://www.researchgate.net/
+## https://www.academia.edu/
+## https://www.athenarc.gr/en/home
+## https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/ieee-publishing-portal/
+## https://konfer.online/
+## https://research.uci.edu/
 
 
 ## NEWS:
