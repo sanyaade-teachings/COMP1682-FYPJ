@@ -31,7 +31,17 @@
 ## https://www.overleaf.com/
 ## https://www.scribus.net/
 
+#The Society for Location Analysis
+## https://thesla.org/
+The Society for Location Analysis
+The Society for Location Analysis (SLA) is a not-for-profit networking group for professionals working in location analysis.
+ 
+## 1.) [data.gov.uk - The home of UK public data](https://www.data.gov.uk/)
+## 2.) Data.gov Home https://data.gov/
+## 3.) CKAN - https://ckan.org/
+## 4.) GetDKAN - https://getdkan.org/
 
+ 
 ## NEWS:
 Week-4: students will begin their working proposal using the template. Please help them outline their idea, draft an aim and possible objectives, and incorporate relevant reading from their journal logs. Give brief feedback, check the relevance of their reading and agree one next action. A complete draft is not expected.
 
