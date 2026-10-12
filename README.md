@@ -1,7 +1,7 @@
 # COMP1682-FYPJ
-Supporting portal for the final year projects (BSc)
+# Supporting portal for the final year projects (BSc)
 
-Awesome Computer Science Porjects:
+# Awesome Computer Science Porjects:
 
 ### https://dev.to/code_2/100-practical-computer-science-projects-with-source-code-from-beginner-to-expert-i32
 ### https://github.com/topics/computer-science-projects
