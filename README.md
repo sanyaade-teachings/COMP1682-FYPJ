@@ -21,6 +21,17 @@
 ## https://research.uci.edu/
 
 
+# Research tools:
+## https://www.zotero.org/
+## https://www.mendeley.com/
+
+# Document Processing:
+## https://www.libreoffice.org/
+## https://www.onlyoffice.com/download-desktop
+## https://www.overleaf.com/
+## https://www.scribus.net/
+
+
 ## NEWS:
 Week-4: students will begin their working proposal using the template. Please help them outline their idea, draft an aim and possible objectives, and incorporate relevant reading from their journal logs. Give brief feedback, check the relevance of their reading and agree one next action. A complete draft is not expected.
 
