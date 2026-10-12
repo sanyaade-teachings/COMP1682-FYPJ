@@ -11,6 +11,16 @@
 ### https://itsourcecode.com/free-projects/
 
 
+## Research Portals
+eric.ed.gov
+https://www.researchgate.net/
+https://www.academia.edu/
+https://www.athenarc.gr/en/home
+https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/ieee-publishing-portal/
+https://konfer.online/
+https://research.uci.edu/
+
+
 ## NEWS:
 Week-4: students will begin their working proposal using the template. Please help them outline their idea, draft an aim and possible objectives, and incorporate relevant reading from their journal logs. Give brief feedback, check the relevance of their reading and agree one next action. A complete draft is not expected.
 
